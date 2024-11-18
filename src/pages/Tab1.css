@@ -1,0 +1,29 @@
+.history-timeline {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+}
+
+
+.timeline-event {
+  margin-bottom: 16px;
+  border-left: 4px solid #6a0dad;
+  padding-left: 16px;
+}
+
+
+.timeline-event .ion-card-title {
+  color: #6a0dad;
+  font-size: 1.2rem;
+}
+
+
+:root {
+  --ion-color-primary: #6a0dad; /* Primary purple */
+  --ion-color-secondary: #b57de8; /* Light purple */
+  --ion-color-tertiary: #d4a0e3; /* Lighter purple */
+  --ion-color-background: #E6E6FA; /* Lavender background */
+}
+
+
+

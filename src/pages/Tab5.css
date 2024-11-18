@@ -1,0 +1,95 @@
+.IonPage {
+  background-color: #791515;
+}
+
+
+.IonHeader {
+  --background: #db38ff;
+}
+
+
+.IonTitle {
+  color: white;
+  text-align: center;
+}
+
+
+.IonList {
+  padding: 10px;
+}
+
+
+.IonItem {
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.IonImg {
+  border-radius: 8px;
+}
+
+
+.quantity-button {
+  --background: #3880ff;
+  color: white;
+  font-size: 14px;
+  margin: 0 5px;
+}
+
+
+.quantity-display {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 10px;
+}
+
+
+.modal-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.modal-content {
+  width: 90%;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.modal-content h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+
+.modal-content p {
+  font-size: 16px;
+}
+
+
+.close-button {
+  --background: #ff3860;
+  color: white;
+  margin-top: 10px;
+}
+
+
+.IonFooter {
+  --background: #3880ff;
+}
+
+
+.IonFooter .IonTitle {
+  color: white;
+  font-size: 18px;
+}
+
+

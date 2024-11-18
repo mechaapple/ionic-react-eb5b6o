@@ -1,0 +1,39 @@
+.tab-history {
+  background-color: #ffcc00; /* Custom color */
+  border-radius: 15px; /* Rounded corners */
+}
+
+.tab-shop {
+  background-color: #6a0dad; /* Custom color */
+  border-radius: 50%; /* Circle shape */
+}
+
+.tab-cart {
+  background-color: #28a745; /* Custom color */
+  border-radius: 10px; /* Slightly rounded corners */
+}
+
+.tab-about {
+  background-color: #007bff; /* Custom color */
+  border-radius: 20px; /* More rounded corners */
+}
+
+.tab-developers {
+  background-color: #dc3545; /* Custom color */
+  border-radius: 5px; /* Slightly less rounded */
+}
+
+.tab-contact {
+  background-color: #ffc107; /* Custom color */
+  border-radius: 12px; /* Rounded corners */
+}
+
+/* Optional: Adjust icon color */
+.tab-history IonIcon,
+.tab-shop IonIcon,
+.tab-cart IonIcon,
+.tab-about IonIcon,
+.tab-developers IonIcon,
+.tab-contact IonIcon {
+  color: white; /* Change icon color to white */
+}
